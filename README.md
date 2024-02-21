@@ -1,4 +1,4 @@
-# CrowdSourcedGroceryPrices
+# Crowd Sourced Grocery Prices
 
 ![image](https://github.com/Twinkle-Rakesh-Jain/CrowdSourcedGroceryPrices/assets/159181933/a98d6f16-1851-47cf-945f-832c40581ad5)
 
